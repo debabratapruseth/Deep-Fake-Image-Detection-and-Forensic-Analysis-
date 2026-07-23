@@ -1,0 +1,10 @@
+{
+  "analysis_id": "IMG_20260723_164713_5012",
+  "model": "gpt-4.1-mini",
+  "temperature": 0.2,
+  "generated_timestamp": "2026-07-23T17:01:58.436480+00:00",
+  "prompt_version": "1.0",
+  "context_version": "1.0",
+  "report_length_characters": 4218,
+  "report_length_words": 567
+}
